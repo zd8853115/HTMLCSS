@@ -240,3 +240,16 @@ img{
 	color: #fff;
 	margin-right: 15px;
 }
+.right{
+	float: right;
+	position: fixed;
+	right: 0;
+	bottom: 100px;
+}
+.right li{
+	list-style: none;
+	line-height: 50px;
+}
+.right li a{
+	
+}
